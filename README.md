@@ -1,2 +1,7 @@
-# python
-Python resources for HANA
+# Python
+
+Repository for Python training and material for work with HANA and C*.
+
+	pyodbc
+	HANA client
+	
