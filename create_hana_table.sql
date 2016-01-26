@@ -1,0 +1,5 @@
+CREATE COLUMN TABLE "HANA_WORKSHOP_01"."workshop.exercises.g01.data.mytable"
+(
+ID INTEGER  PRIMARY KEY,
+STRING BLOB
+)
